@@ -1,0 +1,3 @@
+Services contain the business logic of the application
+They implement the core logic and perorm CRUD operation on the db.
+THEY ProVIDE METHODS CALLED BY THE CONTROLLER

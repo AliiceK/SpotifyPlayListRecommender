@@ -1,0 +1,9 @@
+#welcome-message {
+    color:#033d17; /* White text color */
+    font-family: 'Gotham', 'Helvetica Neue', Helvetica, Arial, sans-serif; /* Font similar to Spotify's */
+    font-size: 24px; /* Large text size */
+    padding: 20px; /* Padding for aesthetics */
+    border-radius: 8px; /* Optional: rounded corners */
+    margin: 20px;
+    text-align: center;
+}
